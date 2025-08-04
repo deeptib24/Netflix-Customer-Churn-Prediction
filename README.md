@@ -14,8 +14,9 @@ This is a machine learning web application built using **Streamlit** to predict 
 ---
 
 ## 📊 Dataset Features
-[DATASET LINK] (http://kaggle.com/datasets/abdulwadood11220/netflix-customer-churn-dataset)
-The dataset includes the following columns:
+[DATASET LINK](http://kaggle.com/datasets/abdulwadood11220/netflix-customer-churn-dataset)
+
+- The dataset includes the following columns:
 
 - `customer_id`
 - `age`

@@ -1,7 +1,7 @@
 # 📺 Netflix Churn Prediction App
 
 This is a machine learning web application built using **Streamlit** to predict whether a Netflix customer is likely to churn (i.e., cancel their subscription). The model is trained on a dataset containing customer demographics, behavior, and subscription details.
-- 🚀 **[Live Demo](https://irisappdeploy.streamlit.app/)** 
+🚀 **[Live Demo](https://netflix-customer-churn-prediction.streamlit.app/)** 
 ---
 
 ## 🚀 Features
@@ -15,8 +15,7 @@ This is a machine learning web application built using **Streamlit** to predict 
 
 ## 📊 Dataset Features
 [DATASET LINK](http://kaggle.com/datasets/abdulwadood11220/netflix-customer-churn-dataset)
-
-- The dataset includes the following columns:
+The dataset includes the following columns:
 
 - `customer_id`
 - `age`
